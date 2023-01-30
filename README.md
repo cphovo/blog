@@ -1,2 +1,13 @@
-# work
-This is repository to work and study.
+```
+     __                __      _____                        __            .___      
+    |__|__ __  _______/  |_  _/ ____\___________    _______/  |_ __ __  __| _/__.__.
+    |  |  |  \/  ___/\   __\ \   __\/  _ \_  __ \  /  ___/\   __\  |  \/ __ <   |  |
+    |  |  |  /\___ \  |  |    |  | (  <_> )  | \/  \___ \  |  | |  |  / /_/ |\___  |
+/\__|  |____//____  > |__|    |__|  \____/|__|    /____  > |__| |____/\____ |/ ____|
+\______|          \/                                   \/                  \/\/     
+```
+The repository serves as a blog to record some learning materials.
+
+#### branch
+- main: code in linux or macOs
+- windwos: code in windows
